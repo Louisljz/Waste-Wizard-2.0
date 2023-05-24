@@ -53,4 +53,3 @@ with torch.no_grad():
     print('Inference Time on CPU: ', round(end-start, 2), 's')
 
 draw_bbox(np.array(img), pred[0])
-cv2.waitKey(0)
