@@ -1,1 +1,4 @@
-__pycache__
+__pycache__/
+annotations/
+images/
+model.pth
