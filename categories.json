@@ -1,0 +1,72 @@
+{
+    "metal": [
+        "Aluminium foil",
+        "Battery",
+        "Aluminium blister pack",
+        "Carded blister pack",
+        "Metal bottle cap",
+        "Food Can",
+        "Drink can",
+        "Pop tab",
+        "Scrap metal",
+        "Aerosol"
+    ],
+    "plastic": [
+        "Other plastic bottle",
+        "Clear plastic bottle",
+        "Plastic bottle cap",
+        "Other plastic cup",
+        "Other plastic",
+        "Other plastic wrapper",
+        "Single-use carrier bag",
+        "Polypropylene bag",
+        "Crisp packet",
+        "Spread tub",
+        "Tupperware",
+        "Disposable food container",
+        "Foam food container",
+        "Other plastic container",
+        "Plastic glooves",
+        "Plastic utensils",
+        "Plastic straw",
+        "Styrofoam piece",
+        "Plastic straw",
+        "Other plastic lid",
+        "Other plastic film",
+        "Garbage bag"
+    ],
+    "glass": [
+        "Glass bottle",
+        "Broken glass",
+        "Glass cup",
+        "Glass jar"
+    ],
+    "cardboard/paper": [
+        "Other carton",
+        "Egg carton",
+        "Drink carton",
+        "Corrugated carton",
+        "Meal carton",
+        "Pizza box",
+        "Paper cup",
+        "Magazine paper",
+        "Tissues",
+        "Wrapping paper",
+        "Normal paper",
+        "Paper bag",
+        "Plastified paper bag",
+        "Paper straw"
+    ],
+    "organic": [
+        "Food waste"
+    ],
+    "others": [
+        "Toilet tube",
+        "Six pack rings",
+        "Rope & strings",
+        "Unlabeled litter",
+        "Cigarette",
+        "Shoe"
+    ]
+}
+  

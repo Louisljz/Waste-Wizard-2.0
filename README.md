@@ -30,5 +30,12 @@ Deployment - 20 %
 - Build Inference Engine
 
 Performance: 
+
 Able to localize various objects in an image, decent classification. 
 However, main weakness is the over-sensitivity of predictions, and latency of inference on CPU. 
+
+Solution:
+
+Latency: Use lighter backbone models like MobileNet
+
+Over-sensitivity: Group names to material categories
