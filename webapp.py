@@ -47,7 +47,6 @@ def lookup_label(catid):
     return cat_name, name
 
 def draw_bbox(img, pred):
-    img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
     indices = nms(pred['boxes'], pred['scores'], 0.2)
     for i in indices:
         box = pred['boxes'][i]
