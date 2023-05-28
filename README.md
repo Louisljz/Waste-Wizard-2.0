@@ -3,6 +3,7 @@
 ## General Info
 - Dataset: https://github.com/pedropro/TACO
 - Colab Notebook: https://drive.google.com/drive/folders/1K6u6DM8RirkAsTYxmbG-t1f6an99TjuL?usp=sharing
+- Streamlit Webapp: https://louisljz-wastewizard2.streamlit.app/
 - Approach: Object Detection
 - Model: Faster-RCNN
 
